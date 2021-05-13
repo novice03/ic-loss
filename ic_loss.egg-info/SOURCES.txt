@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+ic_loss/__init__.py
+ic_loss/losses.py
+ic_loss/models.py
+ic_loss.egg-info/PKG-INFO
+ic_loss.egg-info/SOURCES.txt
+ic_loss.egg-info/dependency_links.txt
+ic_loss.egg-info/top_level.txt
